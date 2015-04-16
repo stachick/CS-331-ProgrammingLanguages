@@ -1,0 +1,7 @@
+Shane Tachick
+March 31, 2015
+CS 331
+Assignment 5
+Part C
+
+The fourth program outputs "Use the forth Luke!"
